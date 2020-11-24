@@ -1,0 +1,41 @@
+**Principais Comandos do Terminal no LINUX**  
+Lista o conteudo de um diretório: *ls*
+Lista os diretórios, arquivos oculto e executáveis: *ls -a*
+Lista o conteúdo de um diretório detalhadamente: *ls -s*
+Mostra o diretório corrente: *pwd*
+Muda de diretório: *cd*
+Cria uma pasta com o nome desejado: *mkdir [pasta]*
+Renomeia uma Pasta: *mv [arquivo1] [arquivo2]*
+
+**Principais comandos do Windows**
+Para saber mais detalhes sobre o seu Windows: *systeminfo*
+Para fechar um programa: *taskkill*, a força adicionamos */f*
+Para verificar erros do windows: *sfc*
+Para desligar o Windows: *shutdown*
+Para visualizar arquivo de texto: *type*
+Para fazer backup de uma pasta: *robocopy*
+Para saber sobre sua conexão Lan ou wifi: *ipconfig*
+Para realizar teste de conexão com servidor, página web, computador: *ping*
+
+sta de Comandos Git & Shell
+Git
+git config - Usado para definir valores de configuração específicos.
+git init - Criar novo repositorio.
+git add - Usado para adicionar arquivos ao indice.
+git clone - Verificação de repositorio.
+git commit - Usado para confirmar as alterações na cabeça.
+git status - exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.
+git clone - usado para fins de verificação de repositório. Se o repositório estiver em um servidor remoto.
+git checkout - usado para criar ramos ou alternar entre eles.
+git remote - usuário se conecte a um repositório remoto.
+git tag - exibe uma lista de compromissos em uma ramificação, juntamente com os detalhes pertinentes.
+
+Shell
+ls - Lista todos os arquivos do diretório.
+df - Mostra a quantidade de espaço usada no disco rígido.
+top - Mostra o uso da memória.
+cd - Acessa uma determinada pasta (diretório).
+mkdir - Cria um diretório.
+rm - Remove um arquivo/diretório.
+cat - Abre um arquivo.
+vi - Abre o editor vi (lê-se viai) para editar/criar arquivos.
