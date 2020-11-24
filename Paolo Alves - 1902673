@@ -17,7 +17,7 @@ Para fazer backup de uma pasta: *robocopy*
 Para saber sobre sua conexão Lan ou wifi: *ipconfig*
 Para realizar teste de conexão com servidor, página web, computador: *ping*
 
-sta de Comandos Git & Shell
+Lista de Comandos Git & Shell
 Git
 git config - Usado para definir valores de configuração específicos.
 git init - Criar novo repositorio.
